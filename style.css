@@ -1,0 +1,100 @@
+body{
+  background-image: url("pic2.jpg");
+  background-size: cover;
+  scroll-behavior: smooth;
+}
+h1{
+  color: white;
+  font-style:italic;
+  font-size: 65px;
+  text-align: center;
+  margin-top: 100px;
+}
+h4{
+  color: black;
+}
+.intro{
+  position: relative;
+  color:white;
+  text-align: center;
+  font-size: 25px;
+  font-style: oblique;
+  margin: 75px 150px 0;
+  display: block;
+}
+.font{
+  position: relative;
+  color: white;
+  font-style:italic;
+  font-weight: 600;
+  font-size: 30px;
+}
+.anchor{
+  color: white;
+  text-decoration: none;
+  padding-left: 50px;
+  font-style: italic;
+  font-size: 20px;
+  position: relative;
+  left: 74rem;
+  bottom: 50px;
+}
+.page1{
+  background-color: white;
+  opacity: 0.9
+}
+.about h2{
+  color:white;
+  font-style:italic;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.about-row{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.at{
+  width: 25%;
+  height:25%;
+  float: left;
+  margin-right: 30px;
+}
+.at1{
+  width: 25%;
+  height:25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.about-row p{
+  color: white;
+  font-style:italic;
+  font-size: 25px;
+}
+.about-row h3{
+  color: white;
+  font-style:italic;
+  font-size: 30px;
+}
+.hop h1{
+  color:white;
+  font-style:oblique;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.form{
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+}
+.form1{
+  color: white;
+  font-size: 31px;
+  font-style: italic;
+}
+.registration{
+  background-color: white;
+}
